@@ -1,6 +1,6 @@
-# frege-downloader
+# russell-downloader
 
-docker image can be found under the name "jagiellonian/frege-downloader"
+docker image can be found under the name "jagiellonian/russell-downloader"
 
 ## Docker environment variables
 
